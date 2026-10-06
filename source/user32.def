@@ -1,0 +1,7 @@
+LIBRARY user32.dll
+EXPORTS
+GetAsyncKeyState@4
+GetForegroundWindow@0
+GetWindowThreadProcessId@8
+GetCursorPos@4
+SetCursorPos@8
